@@ -1,4 +1,4 @@
-// 2. Validate Subsequence (Easy ranking)
+// 2. Validate Subsequence (Day 1, Mon 17/04/23)
 
 // Given two non-empty arrays of integers, write a function that determines whether the second array is a subsequence of the first one.
 
