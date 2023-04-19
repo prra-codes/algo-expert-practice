@@ -54,4 +54,30 @@ function twoNumberSumTwo(arr, targetSum) {
   return [];
 }
 
-console.log(twoNumberSumTwo([3, 5, -4, 8, 11, 1, -1, 6], 10));
+// console.log(twoNumberSumTwo([3, 5, -4, 8, 11, 1, -1, 6], 10));
+
+// Solution 3 (Day 3, Wed, 19/03/23)
+
+/// Time Complexity: O(nlog(n))
+// Space Complexity: O(1)
+
+function twoNumberSumThree(arr, targetSum) {
+  arr.sort((a, b) => a - b); // sorting the algorithm into ascending order
+
+  let left = 0;
+  let right = arr.length - 1;
+
+  while (left < right) {
+    let startValue = arr[left];
+    let endValue = arr[right];
+    if (startValue + endValue === targetSum) {
+      return [startValue, endValue];
+    } else if (startValue + endValue > targetSum) {
+      --right;
+    } else if (startValue + endValue < targetSum) {
+      ++left;
+    }
+  }
+
+  return [];
+}
