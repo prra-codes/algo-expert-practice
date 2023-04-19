@@ -1,4 +1,4 @@
-// 5. Medium. Three Number Sum. (Day 3. Wed, 19/04/23)
+// 5. Three Number Sum. (Day 3. Wed, 19/04/23)
 
 // Write a function that takes in a non-empty array of distinct integers and an integer representing a target sum. The function should find all triplets in the array that sum up of the target sum and return a two-dimensional array of all these triplets. The numbers in each triplets should be ordered in ascending order, and the triplets themselves should be ordered ascending order with respect to the numbers they hold.
 
