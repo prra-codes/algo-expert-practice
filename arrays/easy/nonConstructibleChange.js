@@ -1,4 +1,4 @@
-// 4. Non-Constructible Change, Day 2, Tue 18/04/23)
+// 4. Non-Constructible Change (Day 2, Tue 18/04/23)
 
 // Given an array of positive integers represing the values of coins in your possesion, write a function that returns the minimum amount of change (the minimum sum of money) that you cannot create. The given coins can have any positive integer value and aren't necessarily unique (i.e., you can have multiple coins of the same value).
 
