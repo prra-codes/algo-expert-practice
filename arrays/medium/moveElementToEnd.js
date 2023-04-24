@@ -1,4 +1,4 @@
-// Restart. 7. Move Element To End (Day 1, Fri, 21/04/23)
+// 7. Move Element To End (Fri, 21/04/23)
 
 // Move Element To End
 

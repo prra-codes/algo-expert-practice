@@ -1,4 +1,4 @@
-// 4. Medium. Monotonic Array
+// 8. Medium. Monotonic Array, (Fri, 21/04/23)
 
 // Write a function that takes in an array of integers and returns a boolean representing whether the array is monotonic.
 
