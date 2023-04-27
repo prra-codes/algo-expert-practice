@@ -1,4 +1,4 @@
-// 10. Longest Peak. Mon, 24/04/23
+// 10. Longest Peak. Thu, 27/04/23
 
 // Write a function that in an array of integers and returns the length of the longest peak in the array.
 
