@@ -1,4 +1,4 @@
-// Merge Overlapping Intervals
+// 14. Merge Overlapping Intervals, Sun, 30/04/23
 
 // Write a function that takes in a non-empty array of arbitrary intervals, merges any overlapping intervals, and returns the new intervals in no particular order.
 
