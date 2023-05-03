@@ -10,6 +10,9 @@
 
 // [2, 3, 5, 5, 6, 8, 9]
 
+// Time Complexity: O(n^2) time
+// Space Complexity: O(1) time
+
 function bubbleSort(arr) {
   let swapped;
   do {
