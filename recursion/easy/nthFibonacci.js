@@ -1,4 +1,4 @@
-// 25. Nth Fibonacci,     Thu, 18/05/23
+// 25. Nth Fibonacci, Thu, 18/05/23
 
 // Nth Fibonacci
 
