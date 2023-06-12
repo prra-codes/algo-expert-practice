@@ -1,4 +1,4 @@
-// 28. Run-Length Encoding, Tue, 30/05/23
+// 28. Run-Length Encoding, Mon, 05/06/23
 
 // Write a function that takes in a non-empty string and returns its run-length encoding.
 
