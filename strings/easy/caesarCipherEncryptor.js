@@ -1,4 +1,4 @@
-// 33. Caesar Cipher Encryptor, 14/06/23
+// 33. Caesar Cipher Encryptor, Thu, 15/06/23
 
 // Given a non-empty string of lowercase letters and a non-negative integer representing a key, write a function that returns a new string obtained by shifting every letter in the input string by k positions in the alphabet, where k is the key.
 
@@ -12,6 +12,8 @@
 // Sample Output
 
 // "zab"
+
+// O(n) time, O(n) space
 
 function caesarCipherEncryptor(string, key) {
   const newLetters = [];
