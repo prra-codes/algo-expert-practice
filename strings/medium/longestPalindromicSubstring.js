@@ -1,4 +1,4 @@
-// Longest Palindromic Substring, Fri, 16/06/23
+// 34. Longest Palindromic Substring, Fri, 16/06/23
 
 // Write a function that, given a string, returns its longest palindromic substring.
 
